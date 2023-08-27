@@ -28,10 +28,10 @@ Collaboration is at the core of my work style. As a team player, I value diverse
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,unity,java,c,gcp,azure&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,unity,java,c,cpp,gcp,azure&theme=light)](https://skillicons.dev)
 
 
- Machine learning , AI , Augmented reality ,  c++
+ Machine learning , AI , Augmented reality 
 
 
 
