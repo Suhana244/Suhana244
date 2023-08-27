@@ -10,7 +10,9 @@ I am dedicated to exploring the frontiers of AI, constantly learning and pushing
 With a growth mindset, I adapt quickly to new concepts and stay up-to-date with evolving technologies, ensuring my knowledge remains relevant.
 
 Collaboration is at the core of my work style. As a team player, I value diverse perspectives and contribute my own unique ideas to create exceptional results. I believe in the power of collective input and a harmonious work environment.
-[![portfolio](https://github.com/Suhana244/Suhana244/blob/main/images.jpeg)
+<p align="center">
+ <img src=[![portfolio](https://github.com/Suhana244/Suhana244/blob/main/images.jpeg)
+  </p>
 
 👩‍💻 I'm currently working on GEN-AI
 
