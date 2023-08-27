@@ -21,3 +21,4 @@ python , Machine learning , AI, Augmented reality , Unity3d , c , c++ , java , G
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhana-singh-23a875248/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/SUHANA_SINGH24/)
 
+![Suhana244's Stats](https://github-readme-stats.vercel.app/api?username=Suhana244&theme=dracula&show_icons=true&hide_border=false&count_private=true)
