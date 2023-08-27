@@ -11,9 +11,9 @@ With a growth mindset, I adapt quickly to new concepts and stay up-to-date with 
 
 Collaboration is at the core of my work style. As a team player, I value diverse perspectives and contribute my own unique ideas to create exceptional results. I believe in the power of collective input and a harmonious work environment.
 
-👩‍💻 I'm currently working on GEN-AI
+👩‍💻 I'm currently working on GEN-AI , LLM , AR
 
-🧠 I'm currently learning Artificial Intelligence 
+🧠 I'm currently learning Artificial Intelligence , Deep Learning 
 
 💬 Ask me about AR , AI , ML , Data science
 
@@ -40,6 +40,5 @@ python , Machine learning , AI, Augmented reality , Unity3d , c , c++ , java , G
 </p>
 <p align="center">
  <img src=https://github-readme-streak-stats.herokuapp.com/?user=Suhana244&theme=dracula&hide_border=false)
- ![Suhana244's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhana244&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 </p>
 
