@@ -24,7 +24,7 @@ Collaboration is at the core of my work style. As a team player, I value diverse
 
 
 ## 🛠 Skills
-![My Skills](https://skillicons.dev/icons?i=py,unity3d,c,c++,c#,java,gcp,azure)
+![My Skills](https://skillicons.dev/icons?i=py,unity,c,c++,c#,java,gcp,azure)
 python , Machine learning , AI, Augmented reality , Unity3d , c , c++ , java , GCP , microsoft azure 
 
 
