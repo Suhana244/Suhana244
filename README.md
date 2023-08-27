@@ -26,7 +26,7 @@ Collaboration is at the core of my work style. As a team player, I value diverse
 ## 🛠 Skills
 # Skills
 
-# Skills
+
 
 [![My Skills](https://skillicons.dev/icons?i=py,ai,unity,java,c,cpp,gcp,azure&theme=light)](https://skillicons.dev)
 
