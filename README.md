@@ -1,7 +1,7 @@
 
 
 
-                                                             # Hi, I'm Suhana Singh! 👋
+  # Hi, I'm Suhana Singh! 👋
 
 
 ## 🚀 About Me
