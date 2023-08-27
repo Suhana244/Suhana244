@@ -26,12 +26,15 @@ Collaboration is at the core of my work style. As a team player, I value diverse
 ## 🛠 Skills
 # Skills
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-- ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+# Skills
+
+
+![Python](icons/python.png)
+![Unity](icons/unity.png)
+![C++](icons/cplusplus.png)
+![Java](icons/java.png)
+![Google Cloud](icons/googlecloud.png)
+![Microsoft Azure](icons/azure.png)
 
 
 
