@@ -11,15 +11,6 @@ With a growth mindset, I adapt quickly to new concepts and stay up-to-date with 
 
 Collaboration is at the core of my work style. As a team player, I value diverse perspectives and contribute my own unique ideas to create exceptional results. I believe in the power of collective input and a harmonious work environment.
 
-
-## 🛠 Skills
-python , Machine learning , AI, Augmented reality , Unity3d , c , c++ , java , GCP , microsoft azure 
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
 👩‍💻 I'm currently working on GEN-AI
 
 🧠 I'm currently learning Artificial Intelligence 
@@ -29,6 +20,11 @@ python , Machine learning , AI, Augmented reality , Unity3d , c , c++ , java , G
 📫 How to reach me suhanasingh2404@gmail.com(Email)
 
 ⚡️ Tinkerer 
+
+
+
+## 🛠 Skills
+python , Machine learning , AI, Augmented reality , Unity3d , c , c++ , java , GCP , microsoft azure 
 
 
 
