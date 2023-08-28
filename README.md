@@ -24,7 +24,6 @@ Collaboration is at the core of my work style. As a team player, I value diverse
 
 
 ## 🛠 Skills
-# Skills
 
 
 
